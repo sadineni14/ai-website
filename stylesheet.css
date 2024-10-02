@@ -1,0 +1,89 @@
+/* Custom CSS */
+.hero-section {
+    background-color: #000;
+    color: #fff;
+    padding: 50px 0;
+  }
+  .student-card {
+    text-align: center;
+    padding: 20px;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  .student-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .student-card:hover {
+    transform: translateY(-10px);
+  }
+  .student-name {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .student-details {
+    font-size: 1rem;
+    color: #ccc;
+  }
+    /* Custom Footer CSS */
+    .footer {
+        background-color: #343a40;
+        color: #ffffff;
+        padding: 40px 0;
+      }
+      .footer a {
+        color: #ffffff;
+        text-decoration: none;
+      }
+      .footer a:hover {
+        color: #ffc107;
+        text-decoration: underline;
+      }
+      .footer .social-icons a {
+        margin-right: 10px;
+      }
+
+
+
+
+      .student-card {
+        text-align: center;
+        padding: 20px;
+        background-color: black;
+        border-radius: 10px;
+        transition: transform 0.3s ease;
+        cursor: pointer;
+      }
+      .student-card img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+      .student-card:hover {
+        transform: translateY(-10px);
+      }
+  
+
+
+      .student-card {
+        text-align: center;
+        padding: 20px;
+        background-color:black;
+        border-radius: 10px;
+        transition: transform 0.3s ease;
+        cursor: pointer;
+      }
+      .student-card img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+      .student-card:hover {
+        transform: translateY(-10px);
+      }
